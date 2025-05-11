@@ -1,16 +1,14 @@
-# api_integration
+# Flutter Dio Posts App
+A Flutter app that demonstrates how to fetch data from a public API using the Dio HTTP client and display it using custom widgets.
 
-A new Flutter project.
+## Features
 
-## Getting Started
+- Fetches post data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts)
+- Uses Dio for HTTP requests
+- Displays each post in a clean card widget
+- Handles loading and error states gracefully
+- Custom AppBar with custom color and bold title
 
-This project is a starting point for a Flutter application.
+## Screenshot:
+![image](https://github.com/user-attachments/assets/64c86402-e9cc-48f1-bb6b-7d5f8c5ea461)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
